@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 testit
 testit2
 test3
 test4
 We have it 5
 Branch6
+=======
+testit
+testit2
+test3
+unicorn
+test4
+We have it 5
+>>>>>>> 530fe910662a5dafaa5759bdf93c3f52d4dcace8
